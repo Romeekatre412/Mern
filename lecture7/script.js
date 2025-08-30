@@ -33,7 +33,9 @@ const nam1="harsh";
 const nam2="punit";
 let marks1=10;
 let marks2=30;
-(marks1>marks2)? console.log(nam1 +"has scored highest marks",marks1 ): console.log(nam2,"has scored highest marks", marks2);
+(marks1>marks2)? 
+console.log(nam1 +"has scored highest marks",marks1 ):
+ console.log(nam2,"has scored highest marks", marks2);
 
 //
 
@@ -81,7 +83,13 @@ else if(num6 >= num4 && num6 >=num5)
 
 
 //////////  3 number ke liye max kaise find krenge    2 ke liye Math.max()
+ 
 
+/*const num1 = 10;
+const num2 = 25;
+const num3 = 15;
+const largestNumber = Math.max(num1, num2, num3);
+console.log("The largest number is:", largestNumber); */
 
 /*
 print 1-7 into weekdays
