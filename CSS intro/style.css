@@ -1,0 +1,36 @@
+
+p{
+    text-align: center;
+}
+.p2{
+    background-color:grey ;
+}
+#p2
+{
+    color:red;
+}
+.p1{
+    color: red;
+    border: 2px solid black;
+    padding: 20px;
+    margin: 20px;
+}
+.c1{
+    border: 2px solid blue;
+    padding: 20px;
+    margin: 20px;
+}
+.n1{
+    border: 2px solid black;
+    font-weight: 1000;
+    line-height: 1.5;
+    letter-spacing: 0.5px;
+    font-size: 20px;
+}
+h1{
+    border: 2px solid black;
+    padding-left:  20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+}
